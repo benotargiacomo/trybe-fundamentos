@@ -1,9 +1,5 @@
-## MÓDULO DE FUNDAMENTOS
-Trybe - Turma 14 A
+### Projetos de FUNDAMENTOS
 
----
-
-## Projetos
 - [x] [Lessons learned](#lessons-learned)
 - [x] [Playground functions](#playground-functions)
 - [x] [To do list](#to-do-list)
@@ -13,8 +9,6 @@ Trybe - Turma 14 A
 - [x] [Zoo functions](#zoo-functions)
 - [x] [Shopping Cart](#shopping-cart)
 - [x] [Jest](#jest)
-
-*Os projetos estão em branchs individuais.
 
 ---
 
