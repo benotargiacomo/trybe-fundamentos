@@ -20,28 +20,44 @@ Trybe - Turma 14 A
 
 ### Lessons learned
 
+Desenvolvimento de um site que contenha informações sobre os aprendizados dos 3 primeiros blocos de conteúdo do módulo de fundamentos.
+  
+**Habilidades**
+
+  - Utilizar HTML para construção de páginas WEB.
+  - Utilizar HTML semântico para tornar a página mais acessível e melhor ranqueada.
+  - Utilizar CSS para adicionar estilo e posicionar elementos.
+
 ---
+
 ### Playground functions
 
 ---
+
 ### To do list
 
 ---
+
 ### Pixel Art
 
 ---
+
 ### Trybewarts
 
 ---
+
 ### Unit tests
 
 ---
+
 ### Zoo functions
 
 ---
+
 ### Shopping Cart
 
 ---
+
 ### Jest
 
 ---
