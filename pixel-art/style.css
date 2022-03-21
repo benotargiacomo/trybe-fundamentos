@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.color {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  margin: 2px;
+  border: 1px solid black;
+}
+
+.buttons {
+  padding: 5px;
+  height: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#pixel-board {
+  height: 210px;
+  width: 210px;
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid black;
+}
+
+.pixel {
+  width: 40px;
+  height: 40px;
+  background-color: white;
+  border: 1px solid black;
+}
